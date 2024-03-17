@@ -1,5 +1,5 @@
 import { forwardRef } from "react";
-import Editorr, { DiffEditor, useMonaco, loader } from "@monaco-editor/react";
+import Editorr from "@monaco-editor/react";
 
 interface Props {
   value: string;
